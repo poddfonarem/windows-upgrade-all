@@ -1,2 +1,8 @@
-# windows-upgrade-all
-This upgrade file is the "nuclear option" for updating your Windows software. It essentially tells the Windows Package Manager to update absolutely everything it can find, bypassing every prompt and legal disclaimer along the way.
+# Windows Auto-Update Script (WinGet)
+
+A streamlined command-line approach to keeping all Windows applications up to date using the **Windows Package Manager (winget)**.
+
+## 🚀 The Command
+
+```powershell
+winget upgrade --all --include-unknown --accept-package-agreements --accept-source-agreements
