@@ -39,5 +39,3 @@ Below are some guidelines to make the collaboration process smooth and effective
 ## Need Help?
 
 If you have questions about implementing a specific idea, feel free to open an **Issue** with the `question` label, and we can discuss it!
-
----
